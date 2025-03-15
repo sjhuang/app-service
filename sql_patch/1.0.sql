@@ -11,3 +11,5 @@ CREATE INDEX app_log_idx2 ON app_log (merchantCode, status);
 CREATE INDEX app_log_idx3 ON app_log (update_time);
 
 ALTER TABLE app_log CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+12345
