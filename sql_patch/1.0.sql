@@ -16,3 +16,7 @@ ALTER TABLE app_log CONVERT TO CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 
 45678
+
+
+
+999999不能出現這個
